@@ -7,7 +7,7 @@ const projectHost = "Rubasha Afzaal";
 
 const teamMembers = [
   "ARHAM SAQIB",
-  "RUBASHA AFZAAL",
+  "SYED SHAZIL SHAH",
   "HASSAN ALI",
   "AYESHA",
   "BURHAN ASLAM",
