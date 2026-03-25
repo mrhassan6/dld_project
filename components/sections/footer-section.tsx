@@ -6,7 +6,7 @@ const projectHost = "Rubasha Afzaal";
 
 const teamMembers = [
   "ARHAM SAQIB",
-  "RUBASHA AFZAAL",
+  "SYED SHAZIL SHAH",
   "HASSAN ALI",
   "AYESHA",
   "BURHAN ASLAM",
@@ -56,7 +56,7 @@ export default function FooterSection() {
               Hosted By
             </p>
             <h3 className="font-[var(--font-orbitron)] text-xl font-bold text-[#ffd700] glow-text">
-              SYED {projectHost}
+             {projectHost}
             </h3>
           </div>
           
