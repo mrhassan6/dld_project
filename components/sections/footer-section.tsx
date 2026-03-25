@@ -2,7 +2,7 @@
 
 import { useRef } from "react";
 
-const projectHost = "SHAZIL ALI";
+const projectHost = "Rubasha Afzaal";
 
 const teamMembers = [
   "ARHAM SAQIB",
