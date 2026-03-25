@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 
-const projectHost = "SHAZIL ALI";
+const projectHost = "Rubasha Afzaal";
 
 const teamMembers = [
   "ARHAM SAQIB",
